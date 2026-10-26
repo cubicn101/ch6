@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Exercise66 {
+public class Scrabble {
 
     public static boolean canSpell(String tiles, String word) {
         tiles = tiles.toLowerCase();
