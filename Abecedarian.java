@@ -1,4 +1,4 @@
-public class Exercise64 {
+public class Abecedarian {
 
     public static boolean isAbecedarian(String word) {
         int i = 0;
