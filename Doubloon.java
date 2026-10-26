@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Exercise65 {
+public class Doubloon  {
 
     public static boolean isDoubloon(String word) {
         word = word.toLowerCase();
